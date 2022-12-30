@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://kuldeepjoshi27.github.io/csb-21qdtv/static/js/main.81bce340.chunk.js",
+    "main.js.map": "https://kuldeepjoshi27.github.io/csb-21qdtv/static/js/main.81bce340.chunk.js.map",
+    "runtime-main.js": "https://kuldeepjoshi27.github.io/csb-21qdtv/static/js/runtime-main.f95991bf.js",
+    "runtime-main.js.map": "https://kuldeepjoshi27.github.io/csb-21qdtv/static/js/runtime-main.f95991bf.js.map",
+    "static/js/2.4d9ed812.chunk.js": "https://kuldeepjoshi27.github.io/csb-21qdtv/static/js/2.4d9ed812.chunk.js",
+    "static/js/2.4d9ed812.chunk.js.map": "https://kuldeepjoshi27.github.io/csb-21qdtv/static/js/2.4d9ed812.chunk.js.map",
+    "index.html": "https://kuldeepjoshi27.github.io/csb-21qdtv/index.html",
+    "precache-manifest.ac67cd9444c1bf8625fbecebaa2cfd51.js": "https://kuldeepjoshi27.github.io/csb-21qdtv/precache-manifest.ac67cd9444c1bf8625fbecebaa2cfd51.js",
+    "service-worker.js": "https://kuldeepjoshi27.github.io/csb-21qdtv/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f95991bf.js",
+    "static/js/2.4d9ed812.chunk.js",
+    "static/js/main.81bce340.chunk.js"
+  ]
+}
